@@ -25,8 +25,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/jhim512/template/blob/master/Rplot.jpeg?raw=true) and ![Image](src)
+
 ```
+
+[Link](https://github.com/jhim512/template/blob/master/Rplot.jpeg?raw=true) and ![Image](src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
