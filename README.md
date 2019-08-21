@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 ```
 
-![gg]("https://github.com/jhim512/template/blob/master/Rplot.jpeg?raw=true")
+![Image](https://github.com/jhim512/template/blob/master/Rplot.jpeg?raw=true)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
